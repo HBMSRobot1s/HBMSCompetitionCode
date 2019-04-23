@@ -1,0 +1,7 @@
+cd .. - Brings Back
+mkdir (insert)   - Make Directory
+pwd - Tells Path (current location)
+git clone - Begin Project
+ls - list files
+la -a (Hidden Files)
+git checkout -b (Branch Name)
